@@ -1,0 +1,139 @@
+name,subtype,effort_score,dosage_lowbound,dosage_upbound,dosage_units,frequency_min,frequency_max,repeat,prescription_or_administered
+Aerobic Exercise,Exercise,60,150,150,Minutes,1,1,Weekly,FALSE
+Strength Training,Exercise,60,,,,2,3,Weekly,FALSE
+High-Intensity Interval Training (HIIT),Exercise,70,,,,2,3,Weekly,FALSE
+Yoga,Exercise,50,,,,2,5,Weekly,FALSE
+Tai Chi,Exercise,50,,,,2,5,Weekly,FALSE
+Pilates,Exercise,50,,,,2,5,Weekly,FALSE
+Walking,Exercise,30,,,,1,1,Daily,FALSE
+Hiking,Exercise,50,,,,1,1,Daily,FALSE
+Sprinting,Exercise,70,,,,1,2,Weekly,FALSE
+Dance,Exercise,50,,,,2,5,Weekly,FALSE
+Martial Arts,Exercise,60,,,,2,3,Weekly,FALSE
+Functional Fitness,Exercise,50,,,,2,3,Weekly,FALSE
+Mobility and Flexibility Exercises,Exercise,40,,,,1,1,Daily,FALSE
+Balance Training,Exercise,40,,,,1,1,Daily,FALSE
+Rebounding,Exercise,50,10,20,Minutes,1,1,Daily,FALSE
+Active Commuting,Exercise,50,,,,,,,FALSE
+Resveratrol,Supplement,30,250,500,mg,1,1,Daily,FALSE
+Nicotinamide Mononucleotide (NMN),Supplement,40,250,500,mg,1,1,Daily,FALSE
+Metformin,Supplement,50,500,2000,mg,1,1,Daily,TRUE
+Omega-3 Fatty Acids (Fish Oil),Supplement,20,1000,3000,mg,1,1,Daily,FALSE
+Vitamin D3,Supplement,10,1000,5000,IU,1,1,Daily,FALSE
+Coenzyme Q10 (Ubiquinol),Supplement,30,100,200,mg,1,1,Daily,FALSE
+Curcumin,Supplement,30,500,2000,mg,1,1,Daily,FALSE
+Rapamycin,Supplement,80,,,,,,,TRUE
+Nicotinamide Riboside (NR),Supplement,40,250,500,mg,1,1,Daily,FALSE
+Low-dose Aspirin,Supplement,10,81,81,mg,1,1,Daily,FALSE
+Quercetin,Supplement,30,500,1000,mg,1,1,Daily,FALSE
+Melatonin,Supplement,10,0.5,5,mg,1,1,Daily,FALSE
+Alpha-Lipoic Acid (ALA),Supplement,30,300,600,mg,1,1,Daily,FALSE
+Fisetin,Supplement,30,100,100,mg,1,1,Daily,FALSE
+Astaxanthin,Supplement,20,4,12,mg,1,1,Daily,FALSE
+Berberine,Supplement,40,900,1500,mg,1,1,Daily,FALSE
+Pterostilbene,Supplement,30,50,150,mg,1,1,Daily,FALSE
+Vitamin K2,Supplement,10,100,200,mcg,1,1,Daily,FALSE
+Magnesium,Supplement,10,200,400,mg,1,1,Daily,FALSE
+Spermidine,Supplement,40,1,2,mg,1,1,Daily,FALSE
+Acetyl-L-Carnitine,Supplement,30,500,2000,mg,1,1,Daily,FALSE
+Probiotics,Supplement,20,,,,,,,FALSE
+Green Tea Extract (EGCG),Supplement,20,250,500,mg,1,1,Daily,FALSE
+Ashwagandha,Supplement,20,300,600,mg,1,1,Daily,FALSE
+Rhodiola Rosea,Supplement,20,200,600,mg,1,1,Daily,FALSE
+Selenium,Supplement,10,100,200,mcg,1,1,Daily,FALSE
+Vitamin C,Supplement,10,500,2000,mg,1,1,Daily,FALSE
+Zinc,Supplement,10,15,30,mg,1,1,Daily,FALSE
+Chromium,Supplement,10,50,200,mcg,1,1,Daily,FALSE
+Collagen Peptides,Supplement,20,5,10,g,1,1,Daily,FALSE
+MCT Oil (Medium-Chain Triglycerides),Supplement,20,5,15,ml,1,1,Daily,FALSE
+"Electrolytes (Sodium, Potassium, Magnesium)",Supplement,10,,,,,,,FALSE
+S-Adenosyl Methionine (SAMe),Supplement,30,200,400,mg,1,1,Daily,FALSE
+Creatine,Supplement,20,3,5,g,1,1,Daily,FALSE
+Glycine,Supplement,20,3,5,g,1,1,Daily,FALSE
+Vitamin B Complex,Supplement,10,,,,,,,FALSE
+Coffee (Caffeine),Supplement,10,50,200,mg,1,1,Daily,FALSE
+Urolithin A,Supplement,40,500,500,mg,1,1,Daily,FALSE
+Tongkat Ali,Supplement,20,200,400,mg,1,1,Daily,FALSE
+NAD+,Supplement,,,,,,,,FALSE
+Anthocyanins,Supplement,10,100,500,mg,1,1,Daily,FALSE
+Trehalose,Supplement,30,3,10,g,1,1,Daily,FALSE
+Oxytocin,Supplement,,,,,,,,TRUE
+Ginkgo Biloba,Supplement,10,120,240,mg,1,1,Daily,FALSE
+Theobromine,Supplement,10,250,500,mg,1,1,Daily,FALSE
+5-HTP,Supplement,10,50,300,mg,1,1,Daily,FALSE
+Colostrum,Supplement,20,1,2,g,1,1,Daily,FALSE
+Fadogia Agrestis,Supplement,30,300,600,mg,1,1,Daily,FALSE
+GABA,Supplement,10,500,1000,mg,1,1,Daily,FALSE
+Inositol,Supplement,10,2,4,g,1,1,Daily,FALSE
+L-Theanine,Supplement,10,100,200,mg,1,1,Daily,FALSE
+Piperine,Supplement,10,5,20,mg,1,1,Daily,FALSE
+Dihydromyricetin (DHM),Supplement,20,300,600,mg,1,1,Daily,FALSE
+Alpha GPC,Supplement,20,300,600,mg,1,1,Daily,FALSE
+Choline,Supplement,10,250,500,mg,1,1,Daily,FALSE
+Huperzine A,Supplement,20,50,200,mcg,1,1,Daily,FALSE
+Sleep Hygiene Practices,Sleep,50,1,1,,1,1,Daily,FALSE
+Napping,Sleep,30,10,30,Minutes,,,As Needed,FALSE
+Avoiding Blue Light Before Bedtime,Sleep,30,1,2,Hours,1,1,Daily,FALSE
+Sleep Tracking,Sleep,50,,,,1,1,Daily,FALSE
+Establishing a Relaxing Bedtime Routine,Sleep,40,30,60,Minutes,1,1,Daily,FALSE
+Meditation,Mindfulness,30,10,20,Minutes,1,1,Daily,FALSE
+Mindfulness Practices,Mindfulness,40,,,,,,,FALSE
+Deep Breathing Exercises,Mindfulness,20,5,10,Minutes,1,1,Daily,FALSE
+Progressive Muscle Relaxation,Mindfulness,30,10,15,Minutes,1,1,Daily,FALSE
+Visualization Techniques,Mindfulness,30,10,15,Minutes,1,1,Daily,FALSE
+Cognitive Behavioral Therapy (CBT),Mindfulness,70,,,,1,1,Weekly,TRUE
+Gratitude Journaling,Mindfulness,20,5,5,Minutes,1,1,Daily,FALSE
+Positive Psychology Practices,Mindfulness,40,,,,,,,FALSE
+Emotional Freedom Techniques (Tapping),Mindfulness,30,5,15,Minutes,1,1,Daily,FALSE
+Biofeedback,Mindfulness,60,30,60,Minutes,1,1,Daily,FALSE
+Laughter Therapy,Mindfulness,20,,,,,,,FALSE
+Sauna Therapy,Environmental,50,15,30,Minutes,2,3,Weekly,FALSE
+Cold Therapy,Environmental,50,1,5,Minutes,1,1,Daily,FALSE
+Sunlight Exposure,Environmental,30,15,30,Minutes,1,1,Daily,FALSE
+Earthing/Grounding,Environmental,30,15,30,Minutes,1,1,Daily,FALSE
+Air Quality Optimization,Environmental,40,,,,,,,FALSE
+Forest Bathing (Shinrin-yoku),Environmental,50,1,2,Hours,1,1,Daily,FALSE
+Hydrotherapy,Environmental,40,,,,,,,FALSE
+Hyperbaric Oxygen Therapy (HBOT),Environmental,80,60,90,Minutes,2,3,Weekly,TRUE
+Cryotherapy,Environmental,70,2,4,Minutes,2,3,Weekly,TRUE
+Red Light Therapy,Environmental,50,10,20,Minutes,3,5,Weekly,FALSE
+NanoVi,Environmental,60,20,60,Minutes,1,1,Daily,FALSE
+Exosome Therapy,Environmental,90,,,,,,,TRUE
+CryoSkin,Environmental,70,20,40,Minutes,,,,TRUE
+BioCharger NG,Environmental,70,15,30,Minutes,1,1,Daily,FALSE
+HyperVibe Whole Body Vibration,Environmental,60,10,15,Minutes,3,5,Weekly,FALSE
+Pulse PEMF Therapy,Environmental,70,30,60,Minutes,2,3,Weekly,TRUE
+Vibroacoustic Massage,Environmental,50,30,60,Minutes,,,As Needed,TRUE
+Ozone Steam Sauna,Environmental,70,20,30,Minutes,2,3,Weekly,TRUE
+PEMF Therapy,Environmental,70,30,60,Minutes,2,3,Weekly,TRUE
+Halotherapy (Salt Therapy),Environmental,50,30,60,Minutes,2,3,Weekly,TRUE
+Ionic Footbath,Environmental,40,30,30,Minutes,,,As Needed,FALSE
+Adaptive Contrast Oxygen Therapy,Environmental,80,15,30,Minutes,2,3,Weekly,TRUE
+Colon Hydrotherapy,Environmental,70,45,60,Minutes,,,As Needed,TRUE
+Intravenous Ozone Therapy,Environmental,90,,,,,,,TRUE
+Nasal Ozone Insufflation,Environmental,80,,,,,,As Needed,TRUE
+Caloric Restriction,Food,70,,,,,,,FALSE
+Intermittent Fasting,Food,60,,,,,,,FALSE
+Time-Restricted Eating,Food,60,,,,,,,FALSE
+Plant-Based Diets,Food,50,,,,,,,FALSE
+Mediterranean Diet,Food,50,,,,,,,FALSE
+Mindful Eating,Food,40,,,,,,,FALSE
+Blue Zones Dietary Patterns,Food,50,,,,,,,FALSE
+Avoiding Processed Foods,Food,50,,,,,,,FALSE
+Low Sugar Intake,Food,50,,,,,,,FALSE
+Anti-Inflammatory Diet,Food,50,,,,,,,FALSE
+Gut Microbiome Optimization,Food,50,,,,,,,FALSE
+Maintaining Strong Social Connections,Emotional,50,,,,,,,FALSE
+Community Involvement,Emotional,50,,,,,,,FALSE
+Volunteering,Emotional,60,,,,,,,FALSE
+Cultivating Purpose and Meaning,Emotional,50,,,,,,,FALSE
+Lifelong Learning,Emotional,60,,,,,,,FALSE
+Cognitive Training,Emotional,40,,,,,,,FALSE
+Altruism and Acts of Kindness,Emotional,40,,,,,,,FALSE
+Relationship Building and Maintenance,Emotional,50,,,,,,,FALSE
+Pet Ownership,Emotional,50,,,,,,,FALSE
+Engaging in Creative Activities,Emotional,40,,,,,,,FALSE
+Time Management,Emotional,50,,,,,,,FALSE
+Positive Attitude and Optimism,Emotional,40,,,,,,,FALSE
+Cultivating Resilience,Emotional,50,,,,,,,FALSE
+Embracing Change and Adaptability,Emotional,40,,,,,,,FALSE
