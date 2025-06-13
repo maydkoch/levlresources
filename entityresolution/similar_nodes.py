@@ -3,9 +3,9 @@
 
 from neo4j import GraphDatabase, basic_auth
 
-URI = "neo4j+ssc://1b551888.databases.neo4j.io"
-AUTH = ("neo4j", "MU_rxscxE2q4BSFgP3Fj5MjnAJtvRLL_hlPbfQH5uZI")
-driver = GraphDatabase.driver(URI, auth=AUTH)
+# URI =
+# AUTH = 
+# driver = GraphDatabase.driver(URI, auth=AUTH)
 
 cypher_query = '''
 MATCH (a)
